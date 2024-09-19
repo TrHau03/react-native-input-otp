@@ -1,6 +1,6 @@
 {
   "name": "hault-react-native-input-otp",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "form input otp",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
